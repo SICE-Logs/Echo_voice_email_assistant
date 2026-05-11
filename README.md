@@ -144,7 +144,7 @@ voice-email-assistant/
 
 ```bash
 git clone https://github.com/SICE-Logs/Echo_voice_email_assistant.git
-cd voice-email-assistant
+cd Echo_voice_email_assistant
 ```
 
 ---
